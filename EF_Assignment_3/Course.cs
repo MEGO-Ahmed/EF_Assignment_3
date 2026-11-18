@@ -1,4 +1,4 @@
-﻿using EF_Assignment_3.Models;
+﻿using OnlineLearningPlatform.Models;
 using OnlineLearningPlatform.Enums;
 using System;
 using System.Collections.Generic;
