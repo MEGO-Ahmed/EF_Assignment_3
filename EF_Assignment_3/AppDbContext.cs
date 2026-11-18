@@ -1,4 +1,4 @@
-﻿using EF_Assignment_3;
+﻿using OnlineLearningPlatform;
 using Microsoft.EntityFrameworkCore;
 using OnlineLearningPlatform.Models;
 using System;
